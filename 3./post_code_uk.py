@@ -1,4 +1,3 @@
-
 '''
 Write a library that supports validating and formatting post codes for UK.\
 The details of which post codes are valid and which are the parts they consist\
